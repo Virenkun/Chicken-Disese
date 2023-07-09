@@ -1,4 +1,4 @@
-# Chicken-Disese
+# Chicken-Disease
 
 
 ## Workflows
