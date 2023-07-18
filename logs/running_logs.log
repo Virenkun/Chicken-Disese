@@ -194,3 +194,99 @@ x===============x]
 [2023-07-18 22:57:26,259: INFO: main: >>>>> stage Prepare Base Model completed<<<<<<
 
 x===============x]
+[2023-07-18 23:35:10,108: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-07-18 23:35:10,121: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-07-18 23:35:10,129: INFO: common: created directory at: artifacts]
+[2023-07-18 23:35:10,138: INFO: common: created directory at: artifacts\prepare_callbacks\checkpoint_dir]
+[2023-07-18 23:35:10,143: INFO: common: created directory at: artifacts\prepare_callbacks\tensorboard_log_dir]
+[2023-07-18 23:37:13,390: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-07-18 23:37:13,395: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-07-18 23:37:13,398: INFO: common: created directory at: artifacts]
+[2023-07-18 23:37:13,401: INFO: common: created directory at: artifacts\prepare_callbacks\checkpoint_dir]
+[2023-07-18 23:37:13,404: INFO: common: created directory at: artifacts\prepare_callbacks\tensorboard_log_dir]
+[2023-07-18 23:39:58,873: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-07-18 23:39:58,880: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-07-18 23:39:58,882: INFO: common: created directory at: artifacts]
+[2023-07-18 23:39:58,885: INFO: common: created directory at: artifacts\prepare_callbacks\checkpoint_dir]
+[2023-07-18 23:39:58,888: INFO: common: created directory at: artifacts\prepare_callbacks\tensorboard_log_dir]
+[2023-07-18 23:40:11,190: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-07-18 23:40:11,197: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-07-18 23:40:11,201: INFO: common: created directory at: artifacts]
+[2023-07-18 23:40:11,204: INFO: common: created directory at: artifacts\prepare_callbacks\checkpoint_dir]
+[2023-07-18 23:40:11,207: INFO: common: created directory at: artifacts\prepare_callbacks\tensorboard_log_dir]
+[2023-07-18 23:48:47,160: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-07-18 23:48:47,170: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-07-18 23:48:47,176: INFO: common: created directory at: artifacts]
+[2023-07-18 23:48:47,181: INFO: common: created directory at: artifacts\prepare_callbacks\checkpoint_dir]
+[2023-07-18 23:48:47,185: INFO: common: created directory at: artifacts\prepare_callbacks\tensorboard_log_dir]
+[2023-07-18 23:56:06,474: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-07-18 23:56:06,480: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-07-18 23:56:06,485: INFO: common: created directory at: artifacts]
+[2023-07-18 23:56:06,488: INFO: common: created directory at: artifacts\prepare_callbacks\checkpoint_dir]
+[2023-07-18 23:56:06,490: INFO: common: created directory at: artifacts\prepare_callbacks\tensorboard_log_dir]
+[2023-07-19 00:11:37,054: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-07-19 00:11:37,078: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-07-19 00:11:37,086: INFO: common: created directory at: artifacts]
+[2023-07-19 00:11:37,096: INFO: common: created directory at: artifacts\prepare_callbacks\checkpoint_dir]
+[2023-07-19 00:11:37,100: INFO: common: created directory at: artifacts\prepare_callbacks\tensorboard_log_dir]
+[2023-07-19 00:12:10,452: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-07-19 00:12:10,460: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-07-19 00:12:10,463: INFO: common: created directory at: artifacts]
+[2023-07-19 00:12:10,467: INFO: common: created directory at: artifacts\prepare_callbacks\checkpoint_dir]
+[2023-07-19 00:12:10,470: INFO: common: created directory at: artifacts\prepare_callbacks\tensorboard_log_dir]
+[2023-07-19 00:12:10,474: INFO: common: created directory at: artifacts\training]
+[2023-07-19 00:25:44,774: INFO: main: >>>>>>>> stage Data Ingestion Stage started <<<<<<<<]
+[2023-07-19 00:25:44,781: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-07-19 00:25:44,784: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-07-19 00:25:44,785: INFO: common: created directory at: artifacts]
+[2023-07-19 00:25:44,787: INFO: common: created directory at: artifacts/data_ingestion]
+[2023-07-19 00:25:47,642: INFO: data_ingestion: artifacts/data_ingestion/data.zip download! with following info: 
+Connection: close
+Content-Length: 11616915
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "adf745abc03891fe493c3be264ec012691fe3fa21d861f35a27edbe6d86a76b1"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: E84E:2B10:171CFA:19C0A6:64B6E02F
+Accept-Ranges: bytes
+Date: Tue, 18 Jul 2023 18:55:44 GMT
+Via: 1.1 varnish
+X-Served-By: cache-maa10249-MAA
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1689706543.058467,VS0,VE1914
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: a941fd353a32e1ab6a36630df8096527005567d8
+Expires: Tue, 18 Jul 2023 19:00:44 GMT
+Source-Age: 2
+
+]
+[2023-07-19 00:25:48,592: INFO: main: >>>>> stage Data Ingestion Stage completed<<<<<<
+
+x===============x]
+[2023-07-19 00:25:48,593: INFO: main: >>>>>>>> stage Prepare Base Model started <<<<<<<<]
+[2023-07-19 00:25:48,597: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-07-19 00:25:48,600: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-07-19 00:25:48,601: INFO: common: created directory at: artifacts]
+[2023-07-19 00:25:48,602: INFO: common: created directory at: artifacts/prepare_base_model]
+[2023-07-19 00:25:49,428: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2023-07-19 00:25:51,224: INFO: main: >>>>> stage Prepare Base Model completed<<<<<<
+
+x===============x]
+[2023-07-19 00:25:51,224: INFO: main: *******************]
+[2023-07-19 00:25:51,225: INFO: main: >>>>>> stage Training started <<<<<<]
+[2023-07-19 00:25:51,228: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-07-19 00:25:51,230: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-07-19 00:25:51,231: INFO: common: created directory at: artifacts]
+[2023-07-19 00:25:51,232: INFO: common: created directory at: artifacts\prepare_callbacks\checkpoint_dir]
+[2023-07-19 00:25:51,233: INFO: common: created directory at: artifacts\prepare_callbacks\tensorboard_log_dir]
+[2023-07-19 00:25:51,240: INFO: common: created directory at: artifacts\training]
+[2023-07-19 00:28:08,936: INFO: main: >>>>>> stage Training completed <<<<<<
+
+x==========x]
